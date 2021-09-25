@@ -1,0 +1,10 @@
+nav a{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 10px 10px;
+    display: inline-block;
+}
+nav a:hover{
+    background-color: #858585;
+}
